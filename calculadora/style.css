@@ -1,0 +1,24 @@
+*
+#som {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#mult{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#sub {
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+}
+#di {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    width: 100px;
+}
+img, h1 {
+    display: inline-block;
+}
